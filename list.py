@@ -13,3 +13,6 @@ print("list3 = ", list3)
 
 ind = list2[2:5]
 print("is ", ind)
+
+
+print("hello")
